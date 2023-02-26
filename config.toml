@@ -1,5 +1,4 @@
-baseURL = "cname/.github/workflows/deploy.yamlDionysuo
-.github.io"
+baseURL = "cname/.github/workflows/deploy.yamlDionysuo.github.io"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
