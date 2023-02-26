@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "模板",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
